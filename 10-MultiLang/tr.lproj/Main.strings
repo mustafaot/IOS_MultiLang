@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "E-Mail Address"; ObjectID = "FUj-nR-pGI"; */
+"FUj-nR-pGI.placeholder" = "E-Mail Address";
+
+/* Class = "UILabel"; text = "USER LOGIN"; ObjectID = "PSl-Yc-o4L"; */
+"PSl-Yc-o4L.text" = "USER LOGIN";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "qZQ-NQ-HDg"; */
+"qZQ-NQ-HDg.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "yb2-h5-FTp"; */
+"yb2-h5-FTp.normalTitle" = "LOGIN";
